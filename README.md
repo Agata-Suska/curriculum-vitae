@@ -8,10 +8,10 @@ Prosty szablon CV stworzony z myślą o programistach. Zawiera sekcje o doświad
 
 ## Instrukcja obsługi
 
-Jeżeli nie zamierzasz niczego zmieniać w stylach CV (np. koloru), to przejdź od razu do punktu 6.
+Jeżeli nie zamierzasz niczego zmieniać w stylach CV (np. koloru), to pobierz/sklonuj repozytorium i przejdź od razu do punktu 6.
 
 0. Zainstaluj Node.js (https://nodejs.org/en/), gulp i gulp-cli: `npm install -g gulp gulp-cli`
-1. Sklonuj repozytorium
+1. Pobierz/sklonuj repozytorium
 2. W konsoli przejdź do folderu z szablonem i uruchom instalację pakietów npm: `npm install`
 3. Wklej zdjęcie, którego użyjesz w swoim CV, do folderu `src/img`
 4. Uruchom gulpa: `gulp`
